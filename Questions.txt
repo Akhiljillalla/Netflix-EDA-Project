@@ -1,0 +1,5 @@
+Q1: What is the most frequent genre in the dataset?
+Q2: What genres has highest votes?
+Q3: What movie got the highest popularity? What’s its genre?
+Q4: What movie got the lowest popularity? What’s its genre?
+Q5: Which year has the most filmed movies?
