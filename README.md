@@ -26,7 +26,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 | netflix_eda.ipynb | Jupyter Notebook with full analysis |
 | mymoviedb.csv | Dataset used for analysis |
 | requirements.txt | List of Python packages used |
-| Questions.txt | Contains final questions and conclusions |
+| Q&A.txt | Contains final questions and conclusions |
 | README.md | Project documentation and findings |
 
 **Author:** Akhil Reddy Jillalla
